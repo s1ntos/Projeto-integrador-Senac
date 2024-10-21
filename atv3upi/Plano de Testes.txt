@@ -1,0 +1,17 @@
+Plano de Testes - Atualização
+
+ Caso de Teste 1 Validação do Formulário de Cadastro
+- O que testar Validação do campo Nome.
+- Resultado Bem-sucedido. A mensagem O campo Nome é obrigatório é exibida quando o campo é deixado em branco.
+
+ Caso de Teste 2 Inserção de Filme no Banco de Dados
+- O que testar Inserir um novo filme no banco.
+- Resultado Bem-sucedido. O filme foi salvo no banco de dados e pode ser visualizado na listagem.
+
+ Caso de Teste 3 Validação do Campo E-mail
+- O que testar Validação do campo E-mail no cadastro de usuários.
+- Resultado Falha. O e-mail inválido não está sendo detectado. Correção aplicada Ajustei a expressão regular de validação de e-mails.
+
+ Caso de Teste 4 Submissão Correta do Formulário
+- O que testar Submissão de um formulário de cadastro preenchido corretamente.
+- Resultado Bem-sucedido. Cadastro realizado com sucesso.
