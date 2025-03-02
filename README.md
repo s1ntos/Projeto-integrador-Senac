@@ -8,6 +8,7 @@
 ## Tecnologias Utilizadas
 - Java
 - MySQL
+- figma
 - HTML/CSS/JS
 - Git
 
