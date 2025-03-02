@@ -9,7 +9,7 @@
 - Java
 - Spring Boot
 - MySQL
-- HTML/CSS
+- HTML/CSS/JS
 - Git
 
 ## Desenvolvedor
