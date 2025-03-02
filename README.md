@@ -7,7 +7,6 @@
 
 ## Tecnologias Utilizadas
 - Java
-- Spring Boot
 - MySQL
 - HTML/CSS/JS
 - Git
